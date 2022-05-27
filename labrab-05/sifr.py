@@ -1,4 +1,4 @@
 def sifr():
-    return '123355'
+    return '125'
 
 print(sifr())
